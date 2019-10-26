@@ -23,7 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "rake"
   spec.add_dependency "motion-cocoapods"
   spec.add_dependency "motion-require"
-  spec.add_dependency "motion-support", '~> 1.0.0'
+  spec.add_dependency "motion-support", '~> 1.1.0'
   spec.add_dependency 'bubble-wrap', '~> 1.6.0'
   spec.add_dependency 'sugarcube', '~> 1.6.0'
   spec.add_dependency 'afmotion', '~> 2.4.1'
